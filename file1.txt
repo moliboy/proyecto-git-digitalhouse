@@ -1,1 +1,2 @@
 Vamos a subir esto a GitHub para practicar
+He hecho git clone para ver si funciona
